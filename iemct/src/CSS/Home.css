@@ -1,0 +1,32 @@
+.mainSection{
+    display: flex;
+    background: #AEAF9F;
+    justify-content: space-between;
+    align-items: center;
+}
+.contentBox{
+    width:55%;
+    background-image: linear-gradient(to right, #151515 0 70%, #AEAF9F);
+    padding:6em;
+}
+
+.contentBox h1{
+    font-size:8.5rem;
+    padding-left:1.7em;
+    color: aliceblue;
+}
+.contentBox h2{
+    font-size:5rem;
+    padding-left:0.01em;
+    align-content: center;
+    color:#ffdf2b;
+    text-align:center;
+}
+.imgContainer{
+    width:55%;
+}
+.imgContainer img{
+    width: 100%;
+    margin:0;
+    display: block;
+}

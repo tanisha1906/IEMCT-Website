@@ -1,0 +1,27 @@
+.main-Section1{
+    display: flex;
+    background: #F32C49;
+    justify-content: space-between;
+    align-items: center;
+}
+.Box-1{
+    width:85%;
+    background: #2b5d71;
+}
+.Box-2{
+    width:75%;
+    background:#22B477;
+    
+}
+.Box-3{
+    width:60%;
+    background:#211D1D;
+    padding:2.3em;
+}
+.content-Box h2{
+    font-size:2em;
+    padding-left:0.01em;
+    align-content: center;
+    color:white;
+    text-align:center;
+}

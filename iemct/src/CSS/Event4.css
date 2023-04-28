@@ -1,0 +1,28 @@
+.first-Section4{
+    display: flex;
+    background: #409371;
+    justify-content: space-between;
+    align-items: center;
+}
+.content4{
+    width:55%;
+    background:#68d8a9;
+}
+.content4 p{
+    padding:5em;
+}
+.Heading4{
+    background: white;
+    padding:4em;
+}
+.Heading4 h2{
+    color:black;
+}
+.imgContainer{
+    width:45%;
+}
+.imgContainer img{
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}

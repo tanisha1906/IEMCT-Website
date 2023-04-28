@@ -1,0 +1,39 @@
+.eventcard1{
+    background: #F32C49;
+}
+.Event1-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.eventcard2{
+    background: #2b5d71;  
+}
+.Event2-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.eventcard3{
+    background: #AEAF9F;
+}
+.Event3-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+.eventcard4{
+    background: #211D1D;
+}
+.Event4-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.eventcard5{
+    background: #22B477 ;
+}
+.Event5-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.btn{
+    padding-bottom: 3em;
+}

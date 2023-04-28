@@ -1,0 +1,24 @@
+.Section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Heading-2{
+    background: white;
+    padding:4em;
+}
+.Heading-2 h2{
+    color:black;
+    text-decoration: underline;
+}
+.content-2{
+    width:50%;
+}
+.Heading-2{
+    background: #7aa8bb;
+    padding:3em;
+}
+.Heading-2 h2{
+    color:black;
+}

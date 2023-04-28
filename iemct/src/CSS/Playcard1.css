@@ -1,0 +1,83 @@
+.firstSection{
+    display: flex;
+    background: #211D1D;
+    justify-content: space-between;
+    align-items: center;
+}
+.contentBox1{
+    width:37%;
+    padding:6em;
+    background:#211D1D;
+}
+.contentBox1 h1{
+    font-size:5.5rem;
+    padding-left:0.1em;
+    color: aliceblue;
+}
+
+
+.eventCard1{
+    background: #22B477;
+    padding-bottom: 6em;
+}
+.Event1-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.Event1-Content h3{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    padding-top: 1em;
+}
+.Event1-Content p{
+    text-align: center;
+    color:black;
+}
+
+
+.eventCard2{
+    background: #2b5d71;
+    padding-bottom: 6em;
+}
+.Event2-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.Event2-Content h3{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    padding-top: 1em;
+}
+.Event2-Content p{
+    text-align: center;
+    color:white;
+}
+
+
+.eventCard3{
+    background: #F32C49;
+    padding-bottom: 6em;
+}
+.Event3-img{
+    width: 100%;
+    padding-bottom: 1em;
+}
+.Event3-Content h3{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    padding-top: 1em;
+}
+.Event3-Content p{
+    text-align: center;
+    color:black;
+}
+
+
+.btn p{
+    padding-top: 1em;
+    text-decoration: underline;
+}
+   

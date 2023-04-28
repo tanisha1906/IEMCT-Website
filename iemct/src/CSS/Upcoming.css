@@ -1,0 +1,13 @@
+
+.content-Box{
+    width:100%;
+    background-image: linear-gradient(to right, #151515 , #2b5d71);
+    padding:6em;
+}
+
+.content-Box h1{
+    font-size:5.5rem;
+    text-align: center;
+    padding-left:0.5em;
+    color: aliceblue;
+}

@@ -1,0 +1,25 @@
+.Box{
+    width:100%;
+    background-image: linear-gradient(to right, #151515 , #2b5d71);
+    background-image: radial-gradient( #151515 50%, #2b5d71 );
+    padding:6em;
+}
+
+.Box h2{
+    font-size:3.5rem;
+    text-align: center;
+    padding-left:0.5em;
+    color: aliceblue;
+}
+.Box h3{
+    font-size:1.5rem;
+    text-align: center;
+    padding-left:0.5em;
+    color: aliceblue;
+}
+.Box h4{
+    font-size:1.5rem;
+    text-align: center;
+    padding-left:0.5em;
+    color: aliceblue;
+}
